@@ -1,0 +1,13 @@
+{
+    "name": "theo/demo-bug-yaml",
+    "authors": [
+        {
+            "name": "Théo FIDRY",
+            "email": "theo.fidry@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^3.0",
+        "symfony/var-dumper": "^3.0"
+    }
+}

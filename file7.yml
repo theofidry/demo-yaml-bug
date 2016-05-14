@@ -1,0 +1,8 @@
+User:
+    foo:
+        username: |
+            Bob
+    bar:
+        username: |
+            Bob
+        group: ~
